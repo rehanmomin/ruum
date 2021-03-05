@@ -1,0 +1,9 @@
+{
+    "all":[""],
+    "smoke":[""],
+    "custom":[""],
+    "manual":["manual/*.js"],
+    "pvt":[""],
+    "regression":[""],
+    "test":["e2e/e2eChallenge.js"]
+    }
